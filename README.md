@@ -38,7 +38,10 @@ To-do list:
 
 ## Contributors
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+> Sarah Gillogly
+> Shawn Ijaz
+> William Edward
+> Andrew Wensley
 
 ## License
 
