@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Project 1 Boss Bidet
 
 ## Project Description
 
