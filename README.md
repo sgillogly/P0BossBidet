@@ -2,35 +2,43 @@
 
 ## Project Description
 
-Here goes your awesome project description!
+An experience site for a Bidet distributor to handle customer orders and service requests.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Apex
+* Apex Testing
+* HTML
+* CSS
+* JavaScript
+* Visualforce
+* Process Builder
+* UI Customization
+* Security and Access
+* Data Modeling
+* Scrumban
+* Experience Cloud
 
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Catalog
+* Case Submission
+* Order Tracker
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Add a proper shopping cart function
+* Improve the styling
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+# Deployment Instructions
+## Enable Digital Experiences
+From Setup: Feature Settings > Digital Experiences > Settings: Enable
+## Adjust Organization Wide Defaults
+From Setup: Security > Sharing Settings: Set the OWD's for Case and Opportunity to Private
+## Clone From the ForClients Branch of the Repository
+git clone https://github.com/sgillogly/P1BossBidet.git
 
 ## Usage
 
@@ -46,10 +54,3 @@ To-do list:
 ## License
 
 This project uses the following license: [<license_name>](<link>).
-
-# Deployment Instructions
-## Enable Digital Experiences
-From Setup: Feature Settings > Digital Experiences > Settings: Enable
-## Adjust Organization Wide Defaults
-From Setup: Security > Sharing Settings: Set the OWD's for Case and Opportunity to Private
-
